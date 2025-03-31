@@ -15,7 +15,7 @@
 ### 🛠 Prérequis
 
 - Connaissances de base en **C++** (classes, fonctions, pointeurs).
-- Qt Creator installé avec **Qt 5.15+ ou Qt 6.x**.
+- Qt Creator installé avec **QQt 6.x** sur la machine virtuelle fournie (mdp isty).
 - Base de l’interface utilisateur avec le designer `.ui`.
 
 ---
@@ -91,7 +91,6 @@ Via Qt Designer (`.ui`) :
 ---
 
 🧠 N’oubliez pas que ce TP vise autant la rigueur de conception que le résultat graphique. Travaillez en petits groupes, discutez de l’architecture avant de coder !
-
 
 // calculatrice.h
 #ifndef CALCULATRICE_H
